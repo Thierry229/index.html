@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>commande-bouillon-répubique.bj</title>
+  <!-- Boxicons -->
+    <link rel="stylesheet" href="boxicons-master/css/boxicons.min.css" />
+    <!-- Style CSS -->
+    <link rel="stylesheet" href="index.css"/>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #fff; }
+    header, nav, footer { background: #b22222; color: white; padding: 1em; text-align: center; }
+    nav a { margin: 0 1em; color: rgb(149, 156, 209); text-decoration: none; }
+    section { padding: 2em; }
+    .gallery img { width: 200px; margin: 10px; border-radius: 8px; }
+    form { display: flex; flex-direction: column; max-width: 400px; margin: auto; }
+    input, select, button { padding: 0.5em; margin: 0.5em 0; font-size: 1em; }
+    h2 { color: #977a7a; text-align: center; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>COMMANDE-BOUILLON-REPUBLIQUE</BOUILLON-REPUBLIQUE></h1>
+    <div style="margin-bottom: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="Drapeau de la France" width="60" style="border-radius: 4px;">
+  </div>
+     <h2><p>BON GOUT</p></h2>
+     <H1>Pas d'anarque ici</H1>
+    <nav>
+      <ul>
+        <H2>
+          <i><a href="acceuil.html">Acceuil</a> </i>
+         <i><a href="galérie.html">Galérie</a> </i>
+         <i><a href="commande.html">Commande</a></i> <br>
+         <a href="https://www.bing.com/ck/a?!&&p=986e7018f703cd5cdae06f5168eadf9b18d85d6f58149b34312ac7b05d8d6ef7JmltdHM9MTc0OTA4MTYwMA&ptn=3&ver=2&hsh=4&fclid=3998b1d8-28c1-632a-1cc4-a43e296c62d1&u=a1aHR0cHM6Ly93d3cuYmluZy5jb20vYWxpbmsvbGluaz91cmw9aHR0cHMlM2ElMmYlMmZib3VpbGxvbmxlc2l0ZS5jb20lMmZib3VpbGxvbi1yZXB1YmxpcXVlJnNvdXJjZT1zZXJwLWxvY2FsJmg9T0FrUmtQVHB0SG9COW9kTGNOMUVJd1hVSTNLZyUyZnFObjFNZm93Znk3VFIwJTNkJnA9bHdfbHN0cHQmaWc9Nzg3RDVFNzgxREMxNDYwREEzNzM0NTMxOUFFMDAwNjkmeXBpZD1ZTjIwMDB4OTQ3OTY3MjIzMzA2ODExNDk4&ntb=1">cliquer ici pour visiter le site principale</a> 
+        </H2>
+    </ul>
+    </nav>
+  </header>
+  🥙🍕 Bienvenue chez BOUILLON-REPUBLIQUE <br> Là où la gourmandise rencontre la qualité ! 🍹🍕 <br>
+Chez nous, chaque bouchée est un voyage culinaire fait d’amour,  de passion et de saveurs inoubliables. <br> Que vous soyez amateur de chawarma fondant, de pizza croustillante,  <br>de lait caillé rafraîchissant ou de jus naturels savoureux,<br> vous êtes au bon endroit.
+Nous sélectionnons les meilleurs ingrédients pour vous offrir des recettes généreuses, <br> préparées sur place et servies avec le sourire. <br>
+
+<p>🔸 Chawarma épicé et juteux, roulé à la perfection <br>
+   🔸 Pizza artisanale, croustillante à souhait et riche en garniture <br>
+   🔸 Lait caillé onctueux, parfait pour se rafraîchir <br>
+   🔸 Jus naturels, 100 % fruits, 100 % plaisir <br>
+</p>
+
+✨ Ce n’est pas juste de la nourriture, c’est une expérience !  <br>Que vous commandiez pour vous régaler à la maison ou que vous passiez nous voir sur place,  <br>notre mission est simple : vous faire plaisir à chaque instant. <br>
+
+📦 Commandez dès maintenant et laissez votre palais tomber amoureux ! <br>
+📍 Livraison rapide dans toute la ville <br>
+📱 Paiement facile via Transcash <br>
+📸 Et pour plus de sécurité : envoyez-nous votre preuve directement par photo. <br>
+
+ <p>❤️ Merci de faire confiance à [BOUILLON REPUBLIQUE]. Ici, vous n’êtes pas qu’un client : vous êtes de la famille.</p>
+
+
+   <h3>
+     veuillez nous contacter sur :
+  </h3>
+ <div>
+    <h2> 
+      <a href="https://www.facebook.com/BouillonPigalle/">facebook</a>
+      <a href="https://www.tiktok.com/@bouillonletiktok">tiktok</a>
+      <a href="https://www.instagram.com/bouillonlinsta/?hl=fr">instagram</a>
+    </h2>
+  <footer>
+    <p>&copy; BROUILLON-REPUBLIQUE - Tous droits réservés</p>
+  </footer>
+  <footer style="background-color: #222; color: rgb(101, 54, 54); padding: 30px 20px; text-align: center;">
+  <div style="margin-bottom: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="Drapeau de la France" width="60" style="border-radius: 4px;">
+  </div>
+  <div style="font-size: 16px; line-height: 1.6;">
+    📍 <strong>39 Bd du Temple, 75003 Paris, France</strong><br>
+    📞 <a href="tel:+33142596931" style="color: #4dd0e1; text-decoration: none;">+33 1 42 59 69 31</a>
+  </div>
+  
+</body>
+    
